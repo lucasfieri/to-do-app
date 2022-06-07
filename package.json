@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^3.14.0",
+    "axios": "^0.27.2",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",
-    "sass": "^1.52.2"
+    "sass": "^1.52.2",
+    "prisma": "^3.14.0"
   },
   "devDependencies": {
     "eslint": "8.17.0",
